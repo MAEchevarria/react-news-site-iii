@@ -28,10 +28,7 @@ function Article ({ image, title, byline, created_date, abstract}){
                     <Row>
                         <p>{abstract}</p>
                     </Row>
-
-                </Col>
-            
-                            
+                </Col>          
             </Row>
         </Container>
     )
